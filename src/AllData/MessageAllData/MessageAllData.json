@@ -1,0 +1,500 @@
+{
+    "about":[
+       {
+        "idNumber":0,
+        "name":"contact",
+        "description":"The purpose of lorem ipsum is to create a natural looking block of text (sentence, paragraph, page, etc.) that doesn't distract from the layout. A practice not without controversy, laying out pages with meaningless filler text can be very useful when the focus is meant to be on design, not content.The passage experienced a surge in popularity during the 1960s when Letraset used it on their dry-transfer sheets, and again during the 90s as desktop publishers bundled the text with their software. Today it's seen all around the web; on templates, websites, and stock designs. Use our generator to get your own, or read on for the authoritative history of lorem ipsum."
+    },
+    {
+        "idNumber":1,
+        "name":"directory",
+        "description":"The purpose of lorem ipsum is to create a natural looking block of text (sentence, paragraph, page, etc.) that doesn't distract from the layout. A practice not without controversy, laying out pages with meaningless filler text can be very useful when the focus is meant to be on design, not content.The passage experienced a surge in popularity during the 1960s when Letraset used it on their dry-transfer sheets, and again during the 90s as desktop publishers bundled the text with their software. Today it's seen all around the web; on templates, websites, and stock designs. Use our generator to get your own, or read on for the authoritative history of lorem ipsum."
+       },
+    {
+        "idNumber":2,
+        "name":"gallery",
+        "description":"The purpose of lorem ipsum is to create a natural looking block of text (sentence, paragraph, page, etc.) that doesn't distract from the layout. A practice not without controversy, laying out pages with meaningless filler text can be very useful when the focus is meant to be on design, not content.The passage experienced a surge in popularity during the 1960s when Letraset used it on their dry-transfer sheets, and again during the 90s as desktop publishers bundled the text with their software. Today it's seen all around the web; on templates, websites, and stock designs. Use our generator to get your own, or read on for the authoritative history of lorem ipsum."
+       },
+    {
+        "idNumber":3,
+        "name":"news",
+        "description":"The purpose of lorem ipsum is to create a natural looking block of text (sentence, paragraph, page, etc.) that doesn't distract from the layout. A practice not without controversy, laying out pages with meaningless filler text can be very useful when the focus is meant to be on design, not content.The passage experienced a surge in popularity during the 1960s when Letraset used it on their dry-transfer sheets, and again during the 90s as desktop publishers bundled the text with their software. Today it's seen all around the web; on templates, websites, and stock designs. Use our generator to get your own, or read on for the authoritative history of lorem ipsum."
+       },
+    {
+        "idNumber":4,
+        "name":"typography",
+        "description":"The purpose of lorem ipsum is to create a natural looking block of text (sentence, paragraph, page, etc.) that doesn't distract from the layout. A practice not without controversy, laying out pages with meaningless filler text can be very useful when the focus is meant to be on design, not content.The passage experienced a surge in popularity during the 1960s when Letraset used it on their dry-transfer sheets, and again during the 90s as desktop publishers bundled the text with their software. Today it's seen all around the web; on templates, websites, and stock designs. Use our generator to get your own, or read on for the authoritative history of lorem ipsum."
+       },
+     {
+        "idNumber":5,
+        "name":"society_storage",
+        "description":"The purpose of lorem ipsum is to create a natural looking block of text (sentence, paragraph, page, etc.) that doesn't distract from the layout. A practice not without controversy, laying out pages with meaningless filler text can be very useful when the focus is meant to be on design, not content.The passage experienced a surge in popularity during the 1960s when Letraset used it on their dry-transfer sheets, and again during the 90s as desktop publishers bundled the text with their software. Today it's seen all around the web; on templates, websites, and stock designs. Use our generator to get your own, or read on for the authoritative history of lorem ipsum."
+       }
+    ],
+    "Bangla_Dept": {
+        "EN": [
+            {
+                "url": "",
+                "name": "Mohammad Monir Hossain",
+                "designation": "District Election Officer",
+                "workplace": "Bangladesh Election Commission",
+                "hall_name": "Freedom fighter Ziaur Rahman Hall",
+                "home_district": "Comilla",
+                "mobile": "01719-587343",
+                "mail_address": "Manir_ec@yahoo.com"
+            },
+            {
+                "url": "",
+                "name": "Mohammad Yashin Ali Khan",
+                "designation": "Govt Professor",
+                "workplace": "Faridpur Muslim Mission College",
+                "hall_name": "Bangabandhu Sheikh Mujibur Rahman Hall",
+                "home_district": "Faridpur",
+                "mobile": "01819-119941",
+                "mail_address": "Yeasinkhan854@gmail.com"
+            },
+            {
+                "url": "",
+                "name": "Mohammad Mojibur Rahman",
+                "designation": "Assistant Professor",
+                "workplace": "Government Tolaram College, Narayanganj",
+                "hall_name": "Masterda Suja Sen Hall",
+                "home_district": "Shariatpur",
+                "mobile": "01715-069653",
+                "mail_address": "Mojib_25bcs@yaho.com"
+            },
+            {
+                "url": "",
+                "name": "Md. Shafayet Hossain",
+                "designation": "Deputy Commissioner",
+                "workplace": "Customs and Excise",
+                "hall_name": " Haji Muhammad Mohsin Hall",
+                "home_district": "Narail",
+                "mobile": "01716-860057",
+                "mail_address": "Customs.0201@ gmai.com"
+            },
+            {
+                "url": "",
+                "name": "Fahim Ahmed",
+                "designation": "Chief Message Editor",
+                "workplace": "Jamuna Television",
+                "hall_name": "Freedom fighter Ziaur Rahman Hall",
+                "home_district": "Chittagong",
+                "mobile": "01711-359933",
+                "mail_address": "Fahim_1977@yahoo.com"
+            },
+            {
+                "url": "",
+                "name": "Tanya Sultana",
+                "designation": "Teacher",
+                "workplace": "Scholastica School",
+                "hall_name": "Rokeya Hall",
+                "home_district": "Dhaka",
+                "mobile": "",
+                "mail_address": "Sultanatania24@yahoo.com"
+            },
+            {
+                "url": "",
+                "name": "Chowdhury Rasedunnabi(shrizon)",
+                "designation": "Assistant Professor",
+                "workplace": "Dhaka College",
+                "hall_name": "Masterda Suja Sen Hall",
+                "home_district": "Dhaka",
+                "mobile": "01712-007972",
+                "mail_address": "rashedns@gmail.com"
+            },
+            {
+                "url": "",
+                "name": "Mohammad Habibur Rahman",
+                "designation": "Proprietor",
+                "workplace": "Evolution (Aid and Credit Co-operative Societies)",
+                "hall_name": "Masterda Suja Sen Hall",
+                "home_district": "Gopalganj",
+                "mobile": "01711-073113",
+                "mail_address": "Habiburrahmanmukul @ gmail.com"
+            },
+            {
+                "url": "",
+                "name": "Mahmuda Khanam",
+                "designation": "Assistant teacher",
+                "workplace": "National Ideal School",
+                "hall_name": "",
+                "home_district": "Dhaka",
+                "mobile": "01552-374650",
+                "mail_address": ""
+            },
+            {
+                "url": "",
+                "name": "Nilufar Yasmin",
+                "designation": "housewife",
+                "workplace": "National Ideal School",
+                "hall_name": "Rokeya Hall",
+                "home_district": "Dhaka",
+                "mobile": "01793-595899",
+                "mail_address": "Nilu.ym30@gmail.com"
+            },
+            {
+                "url": "",
+                "name": "Kamal Ataur Rahman",
+                "designation": "major",
+                "workplace": "Bangladesh Army",
+                "hall_name": "Poet Jasim Uddin Hall",
+                "home_district": "Dhaka",
+                "mobile": "01816-377626",
+                "mail_address": ""
+            },
+            {
+                "url": "",
+                "name": "Snigdha Sharmeen Jafreen",
+                "designation": "Lecturer",
+                "workplace": "Sinha School and College",
+                "hall_name": "Poet Jasim Uddin Hall",
+                "home_district": "Tangail",
+                "mobile": "01732-728637",
+                "mail_address": ""
+            },
+            {
+                "url": "",
+                "name": "Md. Saiful Haque",
+                "designation": "Additional Deputy Commissioner of Police",
+                "workplace": "Traffic Division Western Region",
+                "hall_name": "Poet Jasim Uddin Hall",
+                "home_district": "Faridpur",
+                "mobile": "01818-904915",
+                "mail_address": ""
+            },
+            {
+                "url": "",
+                "name": "Sajjadur Rahman",
+                "designation": "Lecturer",
+                "workplace": "Mohammadpur Preparatory School and College",
+                "hall_name": "Salimullah is Muslim",
+                "home_district": "Magura",
+                "mobile": "01719-586455",
+                "mail_address": ""
+            },
+            {
+                "url": "",
+                "name": "Qazi Umm Salma Haque (Eva)",
+                "designation": "Assistant teacher",
+                "workplace": "Mohammadpur Preparatory School and College",
+                "hall_name": "Bangladesh Kuwait friendship hall",
+                "home_district": "Dhaka",
+                "mobile": "01819-540518",
+                "mail_address": ""
+            },
+            {
+                "url": "",
+                "name": "Manju Ara Khatun",
+                "designation": "Lecturer",
+                "workplace": "Rajendrapur Cantt: Public School and College",
+                "hall_name": "Rokeya Hall",
+                "home_district": "Pabna",
+                "mobile": "01818-590604",
+                "mail_address": ""
+            },
+            {
+                "url": "",
+                "name": "Hasina Akter",
+                "designation": "RND Supervisor",
+                "workplace": "Puma SE (German Company)",
+                "hall_name": "Shamsunnahar Hall",
+                "home_district": "Barisal",
+                "mobile": "01716-801191",
+                "mail_address": ""
+            },
+            {
+                "url": "",
+                "name": "Mohchena Begumr",
+                "designation": "Assistant Director (Special)",
+                "workplace": "Directorate of Secondary and Higher Secondary Education",
+                "hall_name": "Rokeya Hall",
+                "home_district": "Munshiganj",
+                "mobile": "01818-904951",
+                "mail_address": ""
+            },
+            {
+                "url": "",
+                "name": "Sharmin Tamanna Nupur",
+                "designation": "Assistant Professor",
+                "workplace": "Dhaka Udyan Government College, Mohammadpur, Dhaka",
+                "hall_name": "Rokeya Hall",
+                "home_district": "Munshiganj",
+                "mobile": "01712-713553",
+                "mail_address": ""
+            },
+            {
+                "url": "",
+                "name": "Ashraful Hasan Babu",
+                "designation": "General Manager",
+                "workplace": "MBM Group",
+                "hall_name": "Freedom fighter Ziaur Rahman Hall",
+                "home_district": "Dhaka",
+                "mobile": "01711-784098",
+                "mail_address": ""
+            },
+            {
+                "url": "",
+                "name": "Shariful Haque",
+                "designation": "Environmental and Sustainability Manager",
+                "workplace": "H&M (Buying House)",
+                "hall_name": "Sir AF Rahman Hall",
+                "home_district": "Gazipur",
+                "mobile": "01713-069713",
+                "mail_address": ""
+            },
+            {
+                "url": "",
+                "name": "Abdul Qayyum",
+                "designation": "Assistant Professor",
+                "workplace": "Rajuk Uttara Model College",
+                "hall_name": "Bangabandhu Sheikh Mujibur Rahman Hall",
+                "home_district": "Mymensingh",
+                "mobile": "01713-099607",
+                "mail_address": ""
+            },
+            {
+                "url": "",
+                "name": "Md. Saiful Islam",
+                "designation": "Commercial Secretary",
+                "workplace": "Bangladesh Deputy High Commission, Kolkata, India",
+                "hall_name": "Sergeant Zahurul Haque Hall",
+                "home_district": "Mymensingh",
+                "mobile": "",
+                "mail_address": ""
+            }
+        ],
+        "BN": [
+            {
+                "url": "",
+                "name": "মোহাম্মদ মনির হোসেন",
+                "designation": "জেলা নির্বাচন অফিসার",
+                "workplace": "বাংলাদেশ নির্বাচন কমিশন",
+                "hall_name": "মুক্তিযোদ্ধা জিয়াউর রহমান হল",
+                "home_district": "কুমিল্লা",
+                "mobile": "০১৭১৯-৫৮৭৩৪৩",
+                "mail_address": "Manir_ec@yahoo.com"
+            },
+            {
+                "url": "",
+                "name": "মোহাম্মাদ ইয়াছিন আলী খান",
+                "designation": "সরকারি অধ্যাপক",
+                "workplace": "ফরিদপুর মুসলিম মিশন কলেজ",
+                "hall_name": "বঙ্গবন্ধু শেখ মুজিবুর রহমান হল",
+                "home_district": "ফরিদপুর",
+                "mobile": "০১৮১৯-১১৯৯৪১",
+                "mail_address": "Yeasinkhan854@gmail.com"
+            },
+            {
+                "url": "",
+                "name": "মোহাম্মদ মজিবুর রহমান",
+                "designation": "সহকারী অধ্যাপক",
+                "workplace": "সরকারি তোলারাম কলেজ, নারায়নগঞ্জ",
+                "hall_name": "মাস্টারদা সূয সেন হল",
+                "home_district": "শরীয়তপুর",
+                "mobile": "০১৭১৫-০৬৯৬৫৩",
+                "mail_address": "Mojib_25bcs@yaho.com"
+            },
+            {
+                "url": "",
+                "name": "মো: শাফায়েত হোসেন",
+                "designation": "ডেপুটি কমিশনার",
+                "workplace": " কাস্টমস এন্ড এক্সাইজ",
+                "hall_name": " হাজী মুহম্মদ মুহসীন হল",
+                "home_district": "নড়াইল",
+                "mobile": "০১৭১৬-৮৬০০৫৭",
+                "mail_address": "Customs.0201@ gmai.com"
+            },
+            {
+                "url": "",
+                "name": "ফাহিম আহমেদ",
+                "designation": "প্রধান বার্তা সম্পাদক",
+                "workplace": " যমুনা টেলিভিশন",
+                "hall_name": "মুক্তিযোদ্ধা জিয়াউর রহমান হল",
+                "home_district": "চট্রগ্রাম",
+                "mobile": "০১৭১১-৩৫৯৯৩৩",
+                "mail_address": "Fahim_1977@yahoo.com"
+            },
+            {
+                "url": "",
+                "name": "তানিয়া সুলতানা ",
+                "designation": "শিক্ষিকা",
+                "workplace": "স্কলাস্টিকা স্কুল",
+                "hall_name": "রোকেয়া হল",
+                "home_district": "ঢাকা",
+                "mobile": "",
+                "mail_address": "Sultanatania24@yahoo.com"
+            },
+            {
+                "url": "",
+                "name": "চৌধুরী রাসেদুন্নবী (সৃজন)",
+                "designation": "সহকারী অধ্যাপক",
+                "workplace": "ঢাকা কলেজ",
+                "hall_name": "মাস্টারদা সূয সেন হল",
+                "home_district": "ঢাকা",
+                "mobile": "০১৭১২-০০৭৯৭২",
+                "mail_address": "rashedns@gmail.com"
+            },
+            {
+                "url": "",
+                "name": "মোহাম্মদ হাবিবুর রহমান",
+                "designation": "স্বত্বাধিকারী",
+                "workplace": "বিবর্তন (সহায়তা ও ঋণ সমবায় সমিতি)",
+                "hall_name": "মাস্টারদা সূয সেন হল",
+                "home_district": "গোপালগঞ্জ",
+                "mobile": "০১৭১১-০৭৩১১৩",
+                "mail_address": "Habiburrahmanmukul @ gmail.com"
+            },
+            {
+                "url": "",
+                "name": "মাহমুদা খানম",
+                "designation": "সহকারী শিক্ষক",
+                "workplace": "ন্যাশনাল আইডিয়াল স্কুল",
+                "hall_name": "",
+                "home_district": "ঢাকা",
+                "mobile": "০১৫৫২-৩৭৪৬৫০",
+                "mail_address": ""
+            },
+            {
+                "url": "",
+                "name": "নিলুফার ইয়াসমিন ",
+                "designation": "গৃহিনী",
+                "workplace": "",
+                "hall_name": "রোকেয়া হল",
+                "home_district": "ঢাকা",
+                "mobile": "০১৭৯৩-৫৯৫৮৯৯",
+                "mail_address": "Nilu.ym30@gmail.com"
+            },
+            {
+                "url": "",
+                "name": "কামাল আতাউর রহমান ",
+                "designation": "মেজর",
+                "workplace": "  বাংলাদেশ সেনাবাহিগনী",
+                "hall_name": "  কবি জসীম উদ্দিন হল",
+                "home_district": "ঢাকা",
+                "mobile": "০১৮১৬-৩৭৭৬২৬",
+                "mail_address": ""
+            },
+            {
+                "url": "",
+                "name": " স্নিগ্ধা শারমীন জাফরীন",
+                "designation": "  প্রভাষক",
+                "workplace": "  সিনহা স্কুল এন্ড কলেজ",
+                "hall_name": "  শামসুন্নাহার হল",
+                "home_district": " টাঙ্গাইল",
+                "mobile": "০১৭৩২-৭২৮৬৩৭",
+                "mail_address": ""
+            },
+            {
+                "url": "",
+                "name": " মো: সাইফুল হক ",
+                "designation": " অতিরিক্ত উপ-পুলিশ কমিশনার",
+                "workplace": "  ট্রাফিক বিভাগ পশ্চিম অঞ্চল",
+                "hall_name": "   মুক্তিযোদ্ধা জিয়াউর রহমান হল",
+                "home_district": "ফরিদপুর",
+                "mobile": "০১৮১৮-৯০৪৯১৫",
+                "mail_address": ""
+            },
+            {
+                "url": "",
+                "name": " সাজ্জাদুর রহমান ",
+                "designation": "  প্রভাষক",
+                "workplace": "মোহাম্মদপুর প্রিপারেটরি স্কুল এন্ড কলেজ",
+                "hall_name": " সলিমুল্লা মুসলিম হল",
+                "home_district": " মাগুরা",
+                "mobile": "০১৭১৯-৫৮৬৪৫৫",
+                "mail_address": ""
+            },
+            {
+                "url": "",
+                "name": "কাজী উম্মে সালমা হক (ঈভা) ",
+                "designation": " সহকারী শিক্ষিকা",
+                "workplace": " মোহাম্মদপুর প্রিপারেটরি স্কুল এন্ড কলেজ",
+                "hall_name": " বাংলাদেশ কুয়েত মৈত্রী হল",
+                "home_district": "ঢাকা",
+                "mobile": "০১৮১৯-৫৪০৫১৮",
+                "mail_address": ""
+            },
+            {
+                "url": "",
+                "name": "মঞ্জু আরা খাতুন",
+                "designation": " প্রভাষক",
+                "workplace": "  রাজেন্দ্রপুর ক্যান্ট:পাবলিক স্কুল এন্ড কলেজ",
+                "hall_name": " রোকেয়া হল",
+                "home_district": "পাবনা",
+                "mobile": "০১৮১৮-৫৯০৬০৪",
+                "mail_address": ""
+            },
+            {
+                "url": "",
+                "name": " হাসিনা আক্তার",
+                "designation": " আরএনডি সুপারভাইজার",
+                "workplace": "  পুমা এসই (জার্মান কোম্পানি)",
+                "hall_name": " শামসুন্নাহার হল",
+                "home_district": "বরিশাল",
+                "mobile": "০১৭১৬-৮০১১৯১",
+                "mail_address": ""
+            },
+            {
+                "url": "",
+                "name": " মোহছেনা বেগম ",
+                "designation": " সহকারি পরিচালক (বিশেষ)",
+                "workplace": " মাধ্যমিক ও উচ্চ মাধ্যমিক শিক্ষা অধিদপ্তর",
+                "hall_name": "রোকেয়া হল",
+                "home_district": "মুন্সিগঞ্জ",
+                "mobile": " ০১৮১৮-৯০৪৯৫১",
+                "mail_address": ""
+            },
+            {
+                "url": "",
+                "name": "শারমিন তামান্না নূপুর",
+                "designation": "সহকারী অধ্যাপক",
+                "workplace": " ঢাকা উদ্যান সরকারি কলেজ, মোহাম্মদপুর, ঢাকা",
+                "hall_name": "রোকেয়া হল",
+                "home_district": "মুন্সিগঞ্জ",
+                "mobile": "০১৭১২-৭১৩৫৫৩",
+                "mail_address": ""
+            },
+            {
+                "url": "",
+                "name": " আশরাফুল হাসান বাবু ",
+                "designation": "জেনারেল ম্যানেজার",
+                "workplace": "এমবিএম গ্রুপ",
+                "hall_name": "মুক্তিযোদ্ধা জিয়াউর রহমান হল",
+                "home_district": "ঢাকা",
+                "mobile": "০১৭১১-৭৮৪০৯৮",
+                "mail_address": ""
+            },
+            {
+                "url": "",
+                "name": " শরিফুল হক ",
+                "designation": " এনভাইরনমেন্টাল এন্ড সাসটেন্যাবিলিটি ম্যানেজার",
+                "workplace": "  এইচ এন্ড এম (বাইং হাউস)",
+                "hall_name": "স্যার এ এফ রহমান হল",
+                "home_district": "গাজীপুর",
+                "mobile": "০১৭১৩-০৬৯৭১৩",
+                "mail_address": ""
+            },
+            {
+                "url": "",
+                "name": " আব্দুল কাইয়ুম",
+                "designation": " সহকারি অধ্যাপক",
+                "workplace": "  রাজউক উত্তরা মডেল কলেজ",
+                "hall_name": "বঙ্গবন্ধু শেখ মুজিবর রহমান হল",
+                "home_district": "ময়মনসিংহ",
+                "mobile": "০১৭১৩-০৯৯৬০৭",
+                "mail_address": ""
+            },
+            {
+                "url": "",
+                "name": "মোঃ সাইফুল ইসলাম ",
+                "designation": " বাণিজ্যিক সচিব",
+                "workplace": " বাংলাদেশ উপ-হাইকমিশন, কলকাতা, ভারত",
+                "hall_name": "সার্জেন্ট জহুরুল হক হল",
+                "home_district": "কুমিল্লা",
+                "mobile": "",
+                "mail_address": ""
+            }
+        ]
+    }
+    }
