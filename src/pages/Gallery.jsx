@@ -41,8 +41,6 @@ function TabPanel(props) {
     };
   }
 
-
-
 const Gallery = () => {
 
     const [value, setValue] = React.useState(0);
